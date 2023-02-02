@@ -7,5 +7,5 @@ notas.push(7); // adicionando um valor na array
 
 const media = (notas[0] + notas[1] + notas [2]  + notas[3])/ notas.length;
 
-
+//tste
 console.log(media);
