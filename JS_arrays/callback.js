@@ -13,4 +13,3 @@ function imprimeNome(nome){
 }
 
 nomes.forEach(imprimeNome);
-//
